@@ -20,7 +20,7 @@ Desarrollo de un proyecto para el control de patrimonio
 #### Integrantes : 📌
 
 - **Huancara Ccolqque Alex Helder** - _GitHub Account_ - [AlexHelder-Tyzer](https://github.com/AlexHelder-Tyzer)
-- **** - _GitHub Account_ - [VictorPoolHuillcaHerrera](https://github.com/VictorPoolHuillcaHerrera)
+- **Huillca Herrera Victor Pool** - _GitHub Account_ - [VictorPoolHuillcaHerrera](https://github.com/VictorPoolHuillcaHerrera)
 - **Isaac** - _GitHub Account_ - [CarlosEdu322](https://github.com/CarlosEdu322)
 - **Percy** - _GitHub Account_ - [percymagno](https://github.com/percymagno)
 - **Grobert** - _GitHub Account_ - [MaritzaSipaucar](https://github.com/MaritzaSipaucar)
