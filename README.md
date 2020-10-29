@@ -21,14 +21,14 @@ Desarrollo de un proyecto para el control de patrimonio
 
 - **Huancara Ccolqque Alex Helder** - _GitHub Account_ - [AlexHelder-Tyzer](https://github.com/AlexHelder-Tyzer)
 - **Huillca Herrera Victor Pool** - _GitHub Account_ - [VictorPoolHuillcaHerrera](https://github.com/VictorPoolHuillcaHerrera)
-- **Isaac** - _GitHub Account_ - [CarlosEdu322](https://github.com/CarlosEdu322)
-- **Percy** - _GitHub Account_ - [percymagno](https://github.com/percymagno)
-- **Grobert** - _GitHub Account_ - [MaritzaSipaucar](https://github.com/MaritzaSipaucar)
+- **Huaman Hermoza Antony Isaac** - _GitHub Account_ - [Isaac1354](https://github.com/Isaac1354)
+- **PERCY ELVIS HUAMAN VARGAS** - _GitHub Account_ - [percymagno](https://github.com/percymagno)
+- **HUAMANI SURCO Grober Albert** - _GitHub Account_ - [GROBER13](https://github.com/GROBER13)
 
 ---
 ## Empezamos... 💡
 
-Algoritmos de ordenamiento en programacion paralela 
+..............
 
 ### Construido con... 💻
 
