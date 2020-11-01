@@ -1,0 +1,26 @@
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\bin\Debug\App_Biblioteca.exe.config
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.exe
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\bin\Debug\App_Biblioteca.exe.config
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\bin\Debug\App_Biblioteca.exe
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\bin\Debug\App_Biblioteca.pdb
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Patrimonio.csprojAssemblyReference.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.fmrAulas.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.fmrEquipos.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.fmrRegistro_Aulas.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.fmrRegistro_Patrimonio.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.fmrRegistro_Responsables.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.frmPatrimonioAula.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.frmRegistros_Equipos.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.frmResponsables.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.Login.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.Registros_Usuario.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.Registro_Usuarios.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.frmLectores.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.frmLibro.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.Properties.Resources.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.frmPrincipal.resources
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Patrimonio.csproj.GenerateResource.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Patrimonio.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.exe
+C:\Users\USER\Dropbox\My PC (LAPTOP-7LQFUUK8)\Desktop\App_Patrimonio (1)\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.pdb

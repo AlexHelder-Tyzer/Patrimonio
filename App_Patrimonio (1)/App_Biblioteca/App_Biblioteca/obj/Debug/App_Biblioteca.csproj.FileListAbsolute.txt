@@ -1,0 +1,34 @@
+D:\Programas C#\Windows Form\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.csprojAssemblyReference.cache
+D:\Programas C#\Windows Form\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.frmLibro.resources
+D:\Programas C#\Windows Form\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.Properties.Resources.resources
+D:\Programas C#\Windows Form\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.csproj.GenerateResource.cache
+D:\Programas C#\Windows Form\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.csproj.CoreCompileInputs.cache
+D:\Programas C#\Windows Form\App_Biblioteca\App_Biblioteca\bin\Debug\App_Biblioteca.exe.config
+D:\Programas C#\Windows Form\App_Biblioteca\App_Biblioteca\bin\Debug\App_Biblioteca.exe
+D:\Programas C#\Windows Form\App_Biblioteca\App_Biblioteca\bin\Debug\App_Biblioteca.pdb
+D:\Programas C#\Windows Form\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.exe
+D:\Programas C#\Windows Form\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.pdb
+D:\Programas C#\Windows Form\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.frmLectores.resources
+D:\Programas C#\Windows Form\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.frmPrincipal.resources
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\bin\Debug\App_Biblioteca.exe.config
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.exe
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.pdb
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\bin\Debug\App_Biblioteca.exe
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\bin\Debug\App_Biblioteca.pdb
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.csprojResolveAssemblyReference.cache
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.frmLectores.resources
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.frmLibro.resources
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.Properties.Resources.resources
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.frmPrincipal.resources
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.csproj.GenerateResource.Cache
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.Login.resources
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.Registro_Usuarios.resources
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.Registros_Usuario.resources
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.fmrRegistro_Responsables.resources
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.frmResponsables.resources
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.fmrAulas.resources
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.fmrEquipos.resources
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.fmrRegistro_Aulas.resources
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.fmrRegistro_Patrimonio.resources
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.frmPatrimonioAula.resources
+E:\Metodologia\Proyecto\App_Biblioteca\App_Biblioteca\obj\Debug\App_Biblioteca.frmRegistros_Equipos.resources
