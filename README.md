@@ -37,8 +37,5 @@ Desarrollo de un proyecto para el control de patrimonio
 
 ## Contenido del proyecto📃
 
-En este proyecto contiene 
-
-
-y al finalizar el proyecto, se obtuvo un producto se creó un archivo ejecutable para poder tener control de un Patrimonio listo par usar:
+En este proyecto fue realizado con fines de aprendizaje en el curso de Metodologias de desarrollo de Software
 
